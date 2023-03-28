@@ -1,0 +1,1 @@
+addEventHandler("onClientResourceStart", root, onClientResourceStart)

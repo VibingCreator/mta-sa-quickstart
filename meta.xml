@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop>
+    <info type="gamemode" name="MTA:SA Quickstart" version="1.0" author="VibingCreator" />
+    <!-- server -->
+    <script src="server/player/events/onPlayerJoin.lua" type="server" />
+    <script src="server/resource/events/onResourceStart.lua" type="server" />
+    <script src="server/resource/main.lua" type="server" />
+    <!-- client -->
+    <script src="client/player/events/onClientPlayerSpawn.lua" type="client" />
+    <script src="client/player/events/onClientPlayerJoin.lua" type="client" />
+    <script src="client/resource/events/onClientResourceStart.lua" type="client" />
+    <script src="client/resource/main.lua" type="client" />
+</meta>
