@@ -1,6 +1,6 @@
 # MTA:SA Quickstart
 
-This repository contains quickstart source files for creating your own custom gamemode in Multi Theft Auto: San Andreas (MTA:SA). The files provided are designed to help jump-start your development process, providing you with the foundation and basic functionality needed to create a fully functioning gamemode.
+The files provided are designed to help jump-start your development process, providing you with the foundation and basic functionality needed to create a fully functioning gamemode.
 
 ## Getting Started
 
